@@ -1,0 +1,2 @@
+lets deep dive into git and github concepts
+going to learn the basic to advance in git.
